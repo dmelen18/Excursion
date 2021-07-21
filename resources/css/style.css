@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana;
+
+}
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+a {
+    color: turquoise;
+}
+p {
+    font-size: 21px;
+    color: steelblue;
+}
+footer p {
+    text-align: right;
+    color: steelblue;
+}
