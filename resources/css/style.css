@@ -1,6 +1,6 @@
 body {
-    background-color: black;
-    color: white;
+    background-color: rgb(41, 34, 34);
+    color: whitesmoke;
     text-align: center;
     font-family: Verdana;
 
@@ -18,9 +18,9 @@ a {
 }
 p {
     font-size: 21px;
-    color: steelblue;
+    color: rgb(20, 88, 105);
 }
 footer p {
     text-align: right;
-    color: steelblue;
+    color: rgb(20, 88, 105);
 }
