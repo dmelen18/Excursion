@@ -14,14 +14,13 @@ h2 {
     font-weight: 300;
 }
 a {
-    color: aquamarine;
+    color: greenyellow;
     font-size: 16px;
 }
 p {
     font-size: 21px;
-    color: ghostwhite;
+    color: grey;
 }
-footer p {
+footer{
     text-align: right;
-    color: ghostwhite;
 }
